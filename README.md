@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cath12pearl
 - 👀 I’m interested in .programming
 - 🌱 I’m currently learning full stack
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Java Web development Programming...Learning
 - 📫 How to reach me ...
 
 <!---
